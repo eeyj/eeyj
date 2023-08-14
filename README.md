@@ -1,6 +1,4 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=random&height=200&section=header&text=lazyujin&fontSize=90&animation=fadeIn" />	
-</div>
+
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
